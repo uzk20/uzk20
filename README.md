@@ -1,14 +1,20 @@
-## Hi there 👋
+## 你好👋
 
-<!--
-**uzk20/uzk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+一名学生，主要学习Python后端开发、AI图像生成、网络编程，同时也在学习C语言、Linux相关技术。除去C语言，其他的部分都可以说是完完全全的初学者。
+兴趣爱好：
+享受网络游戏
+读小说
+在空闲时间凭自己的想法决定无所事事一整天
 
-Here are some ideas to get you started:
+## 🛠️ 目前掌握的技术
+- 编程语言：Python、C语言
+- Web框架：FastAPI、Uvicorn
+- 其他工具：Git、Linux、P4网络编程
 
-- 🔭 I'm currently working on some C programming projects.
-- 🌱 I'm currently learning computer system knowledge, including process, signal and system call.
-- 👯 I’m looking to collaborate on open‑source small demo projects.
-- 🤔 I'm looking for help with low‑level code debugging.
-- 📫 How to reach me: GitHub Issue
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: perhaps not
+## 个人成果
+在第十届全国大学生集成电路创新创业大赛中获得华南赛区决赛三等奖
+
+## 感兴趣以及将来要努力的方向
+我目前的代码量可能仅有3000行，加上并没有规律的使用与练习，实际水平堪忧
+目标是在本学期内提高代码量到5000左右，起码要做到凭自己看得懂ai在干什么才能明确给出自己的需求
